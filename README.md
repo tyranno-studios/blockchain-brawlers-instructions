@@ -1,45 +1,10 @@
-# blockchain-brawlers-instructions
+# BLOCKCHAIN BRAWLERS Instruction Manual
 Everything you need to know to play Blockchain Brawlers
 
-QUICK START GUIDE
 
-Each Match consists of multiple Rounds
+## QUICK START GUIDE
 
-
-Start a Round by picking 2 cards: 
-(1) a ‘face up’ card to show the opponent (the Set Up card) 
-(2) a ‘face down’ card (the Slam Card) that is revealed later
-
-
-Set your Damage Multiplier to 1, 2, or 3, based on whether you think you’ll win the Round.
-
-
-Win a Round 1 of 3 ways
-1) By having a higher 2-card score
-2) By having your opponent fold
-3) By winning a round that involves FLEXING by you and/or your opponent. (See full instruction guide)
-
-
-Win the Match by winning Rounds until your opponent’s health is down to zero.
-
-
-More details on everything below!
-
-STRATEGY TIPS FOR ROOKIES
-
-
-Do not play your highest card first as the face-up Setup Card unless you know what you’re doing. Playing your highest card as the Setup card is called FLEXING, a high-risk high-reward tactic that should be done only when you think your opponent will Fold.
-
-
-FOLD often. Use Folding  to dump low cards and to avoid taking extra damage or a hit to your Power Meter.
-
-
-
-FULL INSTRUCTIONS
-
-
-REQUIREMENTS
-
+### Requirements
 To start playing Blockchain Brawlers, you’ll need the following: 
 A Wax Cloud Wallet account
 
@@ -63,11 +28,44 @@ In order to compete in select rooms, BRWL will be required as an entry fee. A li
 
 
 
-—
+### BASIC GAMEPLAY
 
-HOW TO PLAY PVP MODE
 
-MATCH BASICS
+Each Match consists of multiple Rounds
+
+
+Start a Round by picking 2 cards: 
+(1) a ‘face up’ card to show the opponent (the Set Up card) 
+(2) a ‘face down’ card (the Slam Card) that is revealed later
+
+
+Set your Damage Multiplier to 1, 2, or 3, based on whether you think you’ll win the Round.
+
+
+Win a Round 1 of 3 ways
+1) By having a higher 2-card score
+2) By having your opponent fold
+3) By winning a round that involves FLEXING by you and/or your opponent. (See full instruction guide)
+
+
+Win the Match by winning Rounds until your opponent’s health is down to zero.
+
+
+More details on everything below!
+
+### STRATEGY TIPS FOR ROOKIES
+
+
+Do not play your highest card first as the face-up Setup Card unless you know what you’re doing. Playing your highest card as the Setup card is called FLEXING, a high-risk high-reward tactic that should be done only when you think your opponent will Fold.
+
+
+FOLD often. Use Folding  to dump low cards and to avoid taking extra damage or a hit to your Power Meter.
+
+
+
+## FULL INSTRUCTIONS
+
+### MATCH BASICS
 
 Every Match consists of individual Rounds where you strategically play two of the Cards you are dealt in each Round. Sorta like the classic card game War, but with 2 cards!
 
@@ -80,7 +78,7 @@ Inflicting Damage. When you win a Round, your Brawler executes a move damaging y
 Winning the Match. To defeat your opponent, you must entirely deplete their Health down to 0 (zero), before they deplete yours. You then win the Match!
 
 
-WHAT’S ON THE SCREEN
+### WHAT’S ON THE SCREEN
 
 Health: Both Brawlers start a Match with 25 Health points. Remember, the first Brawler to lose all 25 of their Health points gets pinned and loses the Match!
 
@@ -101,7 +99,7 @@ The Set Up Card. Each Round, you choose two Cards from your Hand to play. The fi
 The Slam Card. The second Card you choose to play is called the Slam Card, and this is hidden from your opponent. And yes, their Slam Card is hidden from you.
 
 
-COMBAT DURING ROUNDS
+### COMBAT
 
 Card Selection: At the start of each Round, you select from your hand the Set Up Card and Slam Card you’d like to play. 
 
@@ -150,12 +148,12 @@ When Match ends and both Players have Negative Health, the winner is determined 
 
 When a Match ends and both Players have identical Negative Health, then the Match ends in a draw.
 
-SPECIAL TACTICS
+### SPECIAL TACTICS
 PLAYING A 1 OR 3
 This is when you choose either a 1 Card and/or a 3 Card. Keep in mind when you do this, the highest your hand total could possibly be for the Round is a 9 or an 11.
 Lots of risk, but 2X the reward! If you win the Round while using a 1 or a 3, then your Power Meter will increase an additional 2 points for each 1 or 3 you’ve played that Round!
 
-MORE STRATEGY TIPS
+### MORE STRATEGY TIPS
 Always keep in mind the highest Card value is an 8. And because your opponent’s Set Up Card is visible to you, you’ll know the highest possible total of their two played cards. That would be their Set Up Card value + 8 (their highest possible hidden Slam Card value). This is key information for your Damage Multiplier or Folding strategy!
 
 Yes, Folding is a legit strategy! And in fact, it’s key as well. Remember, when you Fold, you will not lose any points off of your Power Meter AND you will be dealt an extra card in the next Round!
