@@ -1,9 +1,23 @@
 # BLOCKCHAIN BRAWLERS Instruction Manual
 Everything you need to know to play Blockchain Brawlers
 
+## TABLE OF CONTENTS
+  * [QUICK START GUIDE](#quick-start-guide)
+    + [REQUIREMENTS](#requirements)
+    + [BASIC GAMEPLAY](#basic-gameplay)
+    + [STRATEGY TIPS FOR ROOKIES](#strategy-tips-for-rookies)
+  * [FULL INSTRUCTIONS](#full-instructions)
+    + [MATCH BASICS](#match-basics)
+    + [WHAT’S ON THE SCREEN](#what-is-on-the-screen)
+    + [COMBAT](#combat)
+    + [DAMAGE CALCULATION AND MATCH ENDINGS](#damage-calculation-and-match-endings)
+    + [SPECIAL TACTICS](#special-tactics)
+    + [MORE STRATEGY TIPS](#more-strategy-tips)
+
+---
 ## QUICK START GUIDE
 
-### Requirements
+### REQUIREMENTS
 To start playing Blockchain Brawlers, you’ll need the following: 
 
 * **A Wax Cloud Wallet account**
@@ -18,7 +32,7 @@ To start playing Blockchain Brawlers, you’ll need the following:
 
 The Cards & Brawler are available from your favorite WAX marketplace including Atomic Hub or vIRL Market. Also available in our Starter Packs.
 
-
+---
 ### BASIC GAMEPLAY
 
 
@@ -41,7 +55,7 @@ The Cards & Brawler are available from your favorite WAX marketplace including A
 
 
 More details on everything below!
-
+---
 ### STRATEGY TIPS FOR ROOKIES
 
 * **Do not play your highest card first as the face-up Setup Card unless you know what you’re doing. **Playing your highest card as the Setup card is called FLEXING, a high-risk high-reward tactic that should be done only when you think your opponent will Fold.
@@ -50,7 +64,7 @@ More details on everything below!
 * **FOLD often.** Use Folding  to dump low cards and to avoid taking extra damage or a hit to your Power Meter.
 
 
-
+---
 ## FULL INSTRUCTIONS
 
 ### MATCH BASICS
@@ -65,8 +79,8 @@ More details on everything below!
 
 * **Winning the Match. **To defeat your opponent, you must entirely deplete their Health down to 0 (zero), before they deplete yours. You then win the Match!
 
-
-### WHAT’S ON THE SCREEN
+---
+### WHAT IS ON THE SCREEN
 
 * **Health:** Both Brawlers start a Match with 25 Health points. Remember, the first Brawler to lose all 25 of their Health points gets pinned and loses the Match!
 
@@ -86,7 +100,7 @@ More details on everything below!
 
 * **The Slam Card. **The second Card you choose to play is called the Slam Card, and this is hidden from your opponent. And yes, their Slam Card is hidden from you.
 
-
+---
 ### COMBAT
 
 * **Card Selection:** At the start of each Round, you select from your hand the Set Up Card and Slam Card you’d like to play. 
@@ -112,7 +126,7 @@ More details on everything below!
 
 
 * **FOLDING. ** If you don’t think you will win a Round, you can opt to Fold. When you Fold, you will not lose any points off of your Power Meter AND you will be dealt an extra card in the next Round. So yes, Folding can be used strategically! As mentioned, the most Cards you can hold in your Hand is six; if you Fold beyond that you will be prompted to discard a Card(s) that will be shuffled back into the Deck.
-
+---
 ### DAMAGE CALCULATION AND MATCH ENDINGS
 
 * When a Round culminates in a Showdown, the Round’s winner will inflict damage on their opponent equal to the winner’s Power Meter x Damage Mulitplier.
@@ -126,12 +140,12 @@ More details on everything below!
 * When a Match ends and both Players have Negative Health, the winner is determined by the player closest to 0 (zero) Health.
 
 * When a Match ends and both Players have identical Negative Health, then the Match ends in a draw.
-
+---
 ### SPECIAL TACTICS
 * **PLAYING A 1 OR 3**
   * This is when you choose either a 1 Card and/or a 3 Card. Keep in mind when you do this, the highest your hand total could possibly be for the Round is a 9 or an 11.
   * Lots of risk, but 2X the reward! If you win the Round while using a 1 or a 3, then your Power Meter will increase an additional 2 points for each 1 or 3 you’ve played that Round!
-
+---
 ### MORE STRATEGY TIPS
 * **Always keep in mind the highest Card value is an 8.** And because your opponent’s Set Up Card is visible to you, you’ll know the highest possible total of their two played cards. That would be their Set Up Card value + 8 (their highest possible hidden Slam Card value). This is key information for your Damage Multiplier or Folding strategy! 
 
