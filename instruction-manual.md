@@ -27,7 +27,7 @@ To start playing Blockchain Brawlers, you’ll need the following:
   * 1 Attack
   * 1 Taunt
   * 1 Finisher
-* **1 BRAWLER.** We suggest Mike Yellerbelly if you're a beginner
+* **1 BRAWLER.** We suggest Mike Yellerbelly if you're a beginner.
 * **BRWL Tokens** (optional)
 
 The Cards & Brawler are available from your favorite WAX marketplace including Atomic Hub or vIRL Market. Also available in our Starter Packs.
@@ -48,7 +48,7 @@ The Cards & Brawler are available from your favorite WAX marketplace including A
 * Win a Round 1 of 3 ways
   1. By having a higher 2-card score
   2. By having your opponent fold
-  3. By winning a round that involves FLEXING by you and/or your opponent. (See full instruction guide)
+  3. By winning a round that involves FLEXING by you and/or your opponent. (See full instruction guide.)
 
 
 * Win the Match by winning Rounds until your opponent’s health is down to zero.
@@ -58,10 +58,10 @@ More details on everything below!
 ---
 ### STRATEGY TIPS FOR ROOKIES
 
-* **Do not play your highest card first as the face-up Setup Card unless you know what you’re doing. **Playing your highest card as the Setup card is called FLEXING, a high-risk high-reward tactic that should be done only when you think your opponent will Fold.
+* **Do not play your highest card first as the face-up Set Up Card unless you know what you’re doing. **Playing your highest card as the Set Up card is called FLEXING, a high-risk high-reward tactic that should be done only when you think your opponent will Fold.
 
 
-* **FOLD often.** Use Folding  to dump low cards and to avoid taking extra damage or a hit to your Power Meter.
+* **FOLD often.** Use Folding to dump low cards and to avoid taking extra damage or a hit to your Power Meter.
 
 
 ---
@@ -122,7 +122,7 @@ More details on everything below!
 
     * **If you Flex and your opponent doesn’t FLEX, you automatically lose.** Always. YES, even if your Card total is higher than your opponent’s, they win!
 
-    * **If both you and your opponent Flex,** it works just like a normal Showdown. The Round winner  (by higher Card total) inflicts damage on their opponent equal to the winner’s Power Meter Score x Damage Multiplier.
+    * **If both you and your opponent Flex,** it works just like a normal Showdown. The Round winner (by higher Card total) inflicts damage on their opponent equal to the winner’s Power Meter Score x Damage Multiplier.
 
 
 * **FOLDING. ** If you don’t think you will win a Round, you can opt to Fold. When you Fold, you will not lose any points off of your Power Meter AND you will be dealt an extra card in the next Round. So yes, Folding can be used strategically! As mentioned, the most Cards you can hold in your Hand is six; if you Fold beyond that you will be prompted to discard a Card(s) that will be shuffled back into the Deck.
@@ -133,7 +133,7 @@ More details on everything below!
 
 * When a player Folds, the Round’s winner will inflict damage on their opponent equal to the winner’s Power Meter only.
 
-* When there’s a FLEX: See Flexing above
+* When there’s a FLEX: See Flexing above.
 
 * When a Round ends in a Tie: Both players inflict full damage on each other, and both players’ Power Meters reset to 1.
 
