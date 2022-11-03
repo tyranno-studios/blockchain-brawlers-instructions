@@ -8,7 +8,7 @@ Everything you need to know to play Blockchain Brawlers
     + [STRATEGY TIPS FOR ROOKIES](#strategy-tips-for-rookies)
   * [FULL INSTRUCTIONS](#full-instructions)
     + [MATCH BASICS](#match-basics)
-    + [WHAT’S ON THE SCREEN](#what-is-on-the-screen)
+    + [WHAT IS ON THE SCREEN](#what-is-on-the-screen)
     + [COMBAT](#combat)
     + [DAMAGE CALCULATION AND MATCH ENDINGS](#damage-calculation-and-match-endings)
     + [SPECIAL TACTICS](#special-tactics)
