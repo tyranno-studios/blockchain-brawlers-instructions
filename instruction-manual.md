@@ -22,7 +22,7 @@ To start playing Blockchain Brawlers, you’ll need the following:
 
 * **A Wax Cloud Wallet account**
 
-* **11 total Card NFTS**
+* **11 total Card NFTs**
   * Number Cards 1-8
   * 1 Attack
   * 1 Taunt
