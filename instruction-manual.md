@@ -38,7 +38,7 @@ The Cards & Brawler are available from your favorite WAX marketplace including A
 
 * Each Match consists of multiple Rounds
 * Start a Round by picking 2 cards: 
-  1. A ‘face up’ card to show the opponent (the Set Up card) 
+  1. A ‘face up’ card to show the opponent (the Set Up Card) 
   2. A ‘face down’ card (the Slam Card) that is revealed later
 
 
